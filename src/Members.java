@@ -16,12 +16,12 @@ class Members
   Students studentMember;
   Teacher teacherMember;
 
-  Members(){
+  public Members(){
 
   }
 
-  Members(){
-    
+  public Members(Students s1){
+    studentMember=new 
   }
 
 }

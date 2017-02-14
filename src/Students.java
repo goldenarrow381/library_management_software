@@ -7,7 +7,7 @@ Students registered in the University or School.
 
 class Students
 {
-  String enrolNo; //It will be unique for evry student
+  String enrolNo; //It will be unique for every student
   String name;
   int fine;
   int booksIssued;
