@@ -4,20 +4,16 @@ registered with the university/school.
 
 */
 
-class Teachers
+class Teachers extends Students
 {
-  String enrolNo;
-  String name;
-  String dept;
-  Books list[];
-  boolean active; //can be blocked if required
+
 
   public Teachers(){
-
+    super();
   }
 
   public Teachers(){
-
+    super();
   }
 
   public String getEnrolNo(){
