@@ -5,7 +5,7 @@ Books
 
 class Books
 {
-  String name;
+  String nameee;
   String author[];
   int price;
   int ID; //this field will be unique
