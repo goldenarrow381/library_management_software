@@ -10,7 +10,7 @@ class Books
   int price;
   int ID; //this field will be unique
   String tags[];//tags will help in searching the books
-  String category;
+  String categoryyyy;
 
   public Books(){
 
